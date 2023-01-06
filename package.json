@@ -1,0 +1,22 @@
+{
+  "name": "dayjs-birthdays",
+  "version": "1.0.0",
+  "description": "Importação de biblioteca pelo npm, utilização do DayJs para aprendizagem e trabalho com datas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMartini13/DayJS-Birthdays.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMartini13/DayJS-Birthdays/issues"
+  },
+  "homepage": "https://github.com/MatheusMartini13/DayJS-Birthdays#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
+}
